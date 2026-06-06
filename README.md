@@ -126,3 +126,6 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request.
 ---
 
 <p align="center">If this repo helped you, consider giving it a ⭐ — it helps others find it too!</p>
+<blockquote>
+<p><strong>Maintained by Suryadipta Ghosh (@sxryadipta) </strong> · Not affiliated with Padho with Pratyush · For educational use only</p>
+</blockquote>
