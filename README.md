@@ -5,7 +5,7 @@
 <!-- Badges -->
 ![Stars](https://img.shields.io/github/stars/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=social)
 ![Forks](https://img.shields.io/github/forks/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=social)
-![Progress](https://img.shields.io/badge/Progress-0%2F114-blue?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-3%2F114-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C++-orange?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-Padho%20with%20Pratyush-red?style=flat-square)
 ![License](https://img.shields.io/github/license/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=flat-square)
