@@ -5,7 +5,7 @@
 <!-- Badges -->
 ![Stars](https://img.shields.io/github/stars/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=social)
 ![Forks](https://img.shields.io/github/forks/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=social)
-![Progress](https://img.shields.io/badge/Progress-3%2F114-blue?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-16%2F114-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C++-orange?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-Padho%20with%20Pratyush-red?style=flat-square)
 ![License](https://img.shields.io/github/license/sxryadipta/DSA-Patterns-Padho-with-Pratyush?style=flat-square)
@@ -32,8 +32,8 @@ Each folder maps to one DSA pattern and contains:
 | # | Pattern | Problems | Status |
 |---|---------|----------|--------|
 | 01 | Arrays & Hashing | — | 🔄 In Progress |
-| 02 | Two Pointers | — | ⏳ Pending |
-| 03 | Sliding Window | — | ⏳ Pending |
+| 02 | Two Pointers | — | 🔄 In Progress |
+| 03 | Sliding Window | — | 🔄 In Progress |
 | 04 | Fast & Slow Pointers | — | ⏳ Pending |
 | 05 | Merge Intervals | — | ⏳ Pending |
 | 06 | Stack | — | ⏳ Pending |
