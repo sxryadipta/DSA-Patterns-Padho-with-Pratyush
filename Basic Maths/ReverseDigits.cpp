@@ -1,8 +1,8 @@
 // Problem  : Reverse Digits
 // GeeksforGeeks : https://www.geeksforgeeks.org/problems/reverse-digit0316/1
 // Pattern  : Basic Maths
-// TC       : O(n)
-// SC       : O(n)
+// TC       : O(log₁₀n)
+// SC       : O(1)
 class Solution {
 public:
     int reverseDigits(int n) {
