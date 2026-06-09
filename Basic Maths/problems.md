@@ -11,4 +11,5 @@
 [Leetcode](https://leetcode.com/problems/reverse-integer/description/)
 
 ##
-### Question 4: 
+### Question 4: Palindrome.
+[GeeksforGeeks](https://www.geeksforgeeks.org/problems/palindrome0746/1)
