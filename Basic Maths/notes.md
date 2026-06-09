@@ -7,4 +7,4 @@ while (N>0){
   N=N/10;   //this reduces the number by 10, hence eliminating the last digit and extracting the next digit in the next iteration.
 }
 ```
-Usually, the code which includes division on each iteration has the Time Complexity og O(logn).
+Usually, the code which includes division on each iteration has the Time Complexity of O(logn).
