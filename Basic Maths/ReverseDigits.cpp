@@ -4,9 +4,16 @@
 // TC       : O(n)
 // SC       : O(n)
 class Solution {
-  public:
+public:
     int reverseDigits(int n) {
-        // Code here
-        
+        int number = 0;
+
+        while (n > 0) {
+            int lastDigit = n % 10;
+            number = number * 10 + lastDigit;
+            n /= 10;
+        }
+
+        return number;
     }
 };
