@@ -22,7 +22,7 @@ This repository documents my journey through the **DSA Patterns 2025** playlist 
 
 Each folder maps to one DSA pattern and contains:
 - `notes.md` — concept explanation, when to use, time & space complexity
-- `problems.md` — list of LeetCode problems covered, with links
+- `problems.md` — list of LeetCode/GeeksForGeeks problems covered, with links
 - `solutions/` — clean, commented code for each problem
 
 ---
