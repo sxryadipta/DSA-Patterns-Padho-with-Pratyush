@@ -1,4 +1,4 @@
-// Problem  : Reverse Integers
+// Problem  : Sort Colors (Dutch National Flag)
 // Leetcode : https://leetcode.com/problems/sort-colors/description/
 // Pattern  : Basic Maths
 // TC       : O(log₁₀x)
