@@ -1,5 +1,5 @@
 // Problem  : Reverse Integers
-// Leetcode : https://leetcode.com/problems/reverse-integer/description/
+// Leetcode : https://leetcode.com/problems/sort-colors/description/
 // Pattern  : Basic Maths
 // TC       : O(log₁₀x)
 // SC       : O(1)
