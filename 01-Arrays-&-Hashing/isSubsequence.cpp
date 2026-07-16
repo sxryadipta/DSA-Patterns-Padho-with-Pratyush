@@ -1,4 +1,4 @@
-// Problem  : Sort Colors (Dutch National Flag)
+// Problem  : Is Subsequence
 // Leetcode : https://leetcode.com/problems/sort-colors/description/
 // Pattern  : Two Pointers (Three Pointers)
 
