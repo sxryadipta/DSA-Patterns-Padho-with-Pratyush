@@ -1,3 +1,7 @@
+// Problem  : Sort Colors (Dutch National Flag)
+// Leetcode : https://leetcode.com/problems/sort-colors/description/
+// Pattern  : Two Pointers (Three Pointers)
+
 //brute
 class Solution {
 public:
