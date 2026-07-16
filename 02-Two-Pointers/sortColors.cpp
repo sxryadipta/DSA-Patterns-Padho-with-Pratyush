@@ -1,3 +1,8 @@
+// Problem  : Reverse Integers
+// Leetcode : https://leetcode.com/problems/reverse-integer/description/
+// Pattern  : Basic Maths
+// TC       : O(log₁₀x)
+// SC       : O(1)
 //brute force
 class Solution {
 public:
