@@ -2,7 +2,9 @@
 // Neetcode : https://neetcode.io/problems/is-subsequence/description
 // Pattern  : Two Pointers & Binary Search
 
-//brute
+// Brute
+// TC : O(n)
+// SC : O(1)
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
