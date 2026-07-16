@@ -1,4 +1,10 @@
-//brute
+// Problem  : Is Subsequence
+// Neetcode : https://neetcode.io/problems/is-subsequence/description
+// Pattern  : Two Pointers & Binary Search
+
+// Brute
+// TC : O(n)
+// SC : O(1)
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
@@ -17,7 +23,9 @@ public:
     }
 };
 
-//better
+// Better
+// TC : O(m log n)
+// SC : O(1)
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
