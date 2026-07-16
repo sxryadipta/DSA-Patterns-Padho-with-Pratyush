@@ -1,5 +1,5 @@
 // Problem  : Is Subsequence
-// Leetcode : https://leetcode.com/problems/sort-colors/description/
+// Neetcode : https://neetcode.io/problems/is-subsequence/description
 // Pattern  : Two Pointers (Three Pointers)
 
 //brute
