@@ -13,6 +13,8 @@ public:
 };
 
 //better
+//TC : O(n)
+//SC : O(1)
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
