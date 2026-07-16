@@ -1,6 +1,6 @@
 // Problem  : Sort Colors (Dutch National Flag)
 // Leetcode : https://leetcode.com/problems/sort-colors/description/
-// Pattern  : Basic Maths
+// Pattern  : Two Pointers (Three Pointers)
 // TC       : O(log₁₀x)
 // SC       : O(1)
 //brute force
