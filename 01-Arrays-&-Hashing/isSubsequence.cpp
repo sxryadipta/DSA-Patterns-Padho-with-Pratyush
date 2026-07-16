@@ -1,6 +1,6 @@
 // Problem  : Is Subsequence
 // Neetcode : https://neetcode.io/problems/is-subsequence/description
-// Pattern  : Two Pointers (Three Pointers)
+// Pattern  : Two Pointers & Binary Search
 
 //brute
 class Solution {
