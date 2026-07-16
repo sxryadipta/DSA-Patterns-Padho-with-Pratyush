@@ -3,6 +3,8 @@
 // Pattern  : Two Pointers (Three Pointers)
 
 //brute force
+//TC : O(n log n)
+//SC : O(log n)
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
