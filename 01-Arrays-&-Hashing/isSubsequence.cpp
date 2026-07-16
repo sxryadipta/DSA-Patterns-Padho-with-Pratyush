@@ -23,7 +23,9 @@ public:
     }
 };
 
-//better
+// Better
+// TC : O(m log n)
+// SC : O(1)
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
