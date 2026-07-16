@@ -2,9 +2,9 @@
 // Leetcode : https://leetcode.com/problems/sort-colors/description/
 // Pattern  : Two Pointers (Three Pointers)
 
-//brute force
-//TC : O(n log n)
-//SC : O(log n)
+// Brute force
+// TC : O(n log n)
+// SC : O(log n)
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -12,9 +12,9 @@ public:
     }
 };
 
-//better
-//TC : O(n)
-//SC : O(1)
+// Better
+// TC : O(n)
+// SC : O(1)
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
