@@ -1,3 +1,5 @@
+// TC: O(n)
+
 class MyQueue {
 private:
     stack<int> in, out;
